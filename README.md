@@ -1,7 +1,7 @@
 ### Welcome to my page!
 
-I am a graduate researcher at the University of Iowa making serious games to increase public comprehension of flood hazards and mitigation options.
-I am currently learning object oriented game programming in C# and C++ and game design principles.
+I am a graduate researcher and game developer at the University of Iowa making serious games to increase public comprehension of flood hazards and mitigation options.
+I am currently focusing my learning on UI and tool development using C# and C++.
 
 <!--
 **Archives0/Archives0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
