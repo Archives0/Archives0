@@ -1,11 +1,5 @@
 ### Welcome to my page!
 
-My name is Lynne Gonzalez and I love making video games! I created my first game using Scratch at the age of 11 and was enamored by the process and ultimately getting to see people play what I had made. While in college studying Environmental Science, I decided to get serious about making games and taught myself the basics of the Unity engine. I joined the University of Iowa's game development club and swiftly became an executive member, helping to teach other students basic skills for game development such as programming and design. 
-
-My growing proficiency and dedication to game development soon had me recognized by the University of Iowa Hydroinformatics Lab, and I was given the opportunity to join the lab as a graduate research assistant developing immersive flood visualizations and serious games.
-
-When I'm not working on games, I enjoy making music, creative writing, reading fantasy novels, and playing roleplaying games!
-
 <!--
 **Archives0/Archives0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
